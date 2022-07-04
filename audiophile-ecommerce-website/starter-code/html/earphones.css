@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+.audiophile{
+    background-color: black;
+    width: 100%;
+    height: 70vh;
+}
+.navbar{
+    display: flex;
+    padding: 20px 50px;
+    width: 90%;
+}
+.logo{
+    margin:10px 130px ;
+}
+.nav ul{
+    margin: 10px 20px;
+}
+.nav ul li{
+    display: inline;
+    color: white;
+    margin: 0px 25px;
+}
+.cart{
+    margin: 10px 100px;
+    margin-left: 200px;
+}
+#divider{
+    width: 80%;
+    margin: 0px 130px;
+    color: #979797;
+}
+.audiophile h1{
+    text-align: center;
+    color: white;
+    font-size: 56px;
+    margin-top: 155px;
+}
+.yx1{
+    width: 80%;
+    margin: 140px 120px;
+    display: flex;
+}
+.yx1data{
+    width: 50%;
+    margin-top: 120px;
+    margin-left:  200px;
+}
+.yx1data #new1{
+    color: #D87D4A;
+    letter-spacing: 6px;
+}
+.yx1data h1{
+    margin-top:30px;
+    font-size: 44px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+.yx1data #d1 {
+    color: #979797;
+    margin-top: 40px;
+    line-height: 28px;
+}
+.yx1data button{
+    height: 50px;
+    width: 150px;
+    background-color: #D87D4A;
+    color: white;
+    margin-top: 20px;
+    border: none;
+}
+.yx1image{
+    width: 50%;
+}
+.yx1image img{
+    border-radius: 5px;
+}
+
+
+.electronics{
+    display: flex;
+    margin: 150px 110px;
+    justify-content: space-around;
+}
+.headphones{
+    height: 200px;
+    width: 350px;   
+    background-color:#F1F1F1;
+    border-radius: 5px;
+}
+.headphones h3{
+    position: relative;
+    
+}
+.headphones #i1{
+    position:relative ;
+    bottom: 50px;
+    left: 85px;
+}
+.speakers{
+    height: 200px;
+    width: 350px;
+    background-color:#F1F1F1;
+    border-radius: 5px;
+}
+.speakers #i2{
+    position:relative;
+    bottom: 50px;
+    left: 90px;
+    margin-bottom: 10px;
+}
+.data{
+    text-align: center;
+    position: relative;
+    bottom: 55px;
+}
+.data h2{
+    letter-spacing: 3px;
+    margin-bottom: 15px;
+}
+.data p{
+    color: gray;
+}
+
+.earphones{
+    height: 200px;
+    width: 350px;
+    background-color:#F1F1F1;
+    border-radius: 5px;
+}
+.earphones #i3{
+    position:relative ;
+    bottom: 50px;
+    left: 85px;
+}
+
+.best{
+    display: flex;
+    margin: 170px 150px;
+}
+.gear{
+    padding: 150px 0px;
+    padding-right: 200px;
+}
+.gear h1{
+    font-size: 38px;
+}
+.gear span{
+    color: #D87D4A;
+}
+.gear p{
+    color: #979797;
+    margin-top: 30px;
+    line-height: 20px;
+}
+.gearimage img{
+    border-radius: 5px;
+}
+.footer{
+    margin-top: 150px;
+    height: 40vh;
+    background-color: black;
+}
+.footbar{
+    display:flex;
+}
+.footlogo{
+    margin:0px 130px ;
+    padding-top: 50px;
+}
+.footnav ul{
+    margin: 50px 0px;
+    margin-left: 400px;
+}
+.footnav ul li{
+    display: inline;
+    color: white;
+    margin: 0px 30px;
+}
+.last{
+    display: flex;
+}
+.body{
+    color: #979797;
+    width: 550px;
+    margin:0px 130px ;
+}
+.body p{
+    line-height: 20px;
+    font-size: 15px;
+}
+.body h4{
+    margin-top: 30px;
+    letter-spacing: 4px;
+    font-size: 15px;
+}
+.icons{
+    width: 150px;
+    margin-top: 60px;
+    margin-left: 350px;
+}
+.icons img{
+    margin: 0px 10px;
+}

@@ -1,0 +1,283 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.audiophile{
+    background-color: black;
+    width: 100%;
+    height: 15vh;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+.navbar{
+    display: flex;
+    padding: 40px 50px;
+    width: 90%;
+}
+.logo{
+    margin:10px 130px ;
+}
+.nav ul{
+    margin: 10px 20px;
+}
+.nav ul li{
+    display: inline;
+    color: white;
+    margin: 0px 25px;
+}
+.cart{
+    margin: 10px 100px;
+    margin-left: 200px;
+}
+.xx9{
+    margin: 80px 190px;
+    color: gray;
+    height: 800px;
+}
+.xx99{
+    display: flex;
+    width: 90%;
+    margin: 60px 0px;
+}
+.xx99image{
+    width: 60%;
+    height: 600px;
+
+}
+.xx99 img{
+    width: 120%;
+    height: 600px;
+}
+.xx99data{
+    width:40%;
+    margin-left: 120px;
+    padding-left: 50px;
+}
+.xx99data #new1{
+    color: #D87D4A;
+    letter-spacing: 6px;
+}
+.xx99data h1{
+    margin-top:30px;
+    font-size: 44px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    color: black;
+}
+.xx99data #d1 {
+    color: #979797;
+    margin-top: 40px;
+    line-height: 28px;
+}
+.xx99data h2{
+    color: black;
+    margin-top: 30px;
+}
+.xx99data #b1{
+    display: inline;
+    height: 50px;
+    width: 120px;
+    border: none;
+}
+.xx99data #b2{
+    height: 50px;
+    width: 120px;
+    background-color: #D87D4A;
+    color: white;
+    margin-top: 20px;
+    border: none;
+}
+.details{
+    display: flex;
+    width: 80%;
+    margin: 150px 200px;
+}
+.features{
+    width: 50%;
+}
+.features h2{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+.features p{
+    color: #979797;
+    margin: 20px 0px;
+    line-height: 23px;
+}
+.box{
+    margin-left: 150px;
+}
+.box pre{
+    font-size: 20px;
+    margin-top: 30px;
+    color: #979797;
+}
+.box span{
+    color: #D87D4A;
+}
+
+.images{
+    display: flex;
+    margin: 80px 190px;
+}
+.a img{
+    margin-bottom: 27px;
+    border-radius: 5px;
+}
+.b img{
+    margin-left:27px ;
+    border-radius: 5px;
+}
+
+.alsolike h2{
+    font-size: 40px;
+    text-align: center;
+}
+.products{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 0px;
+}
+.products img{
+    height: 300px;
+    width: 350px;
+}
+.products h3{
+    font-size: 32px;
+    text-align: center;
+    margin: 20px 0px;
+}
+.products button{
+    height: 50px;
+    width: 150px;
+    background-color: #D87D4A;
+    color: white;
+    margin: 10px;
+    margin-left:95px;
+    border: none;
+}
+
+.electronics{
+    display: flex;
+    margin: 250px 110px;
+    justify-content: space-around;
+}
+.headphones{
+    height: 200px;
+    width: 350px;   
+    background-color:#F1F1F1;
+    border-radius: 5px;
+}
+.headphones h3{
+    position: relative;
+    
+}
+.headphones #i1{
+    position:relative ;
+    bottom: 50px;
+    left: 85px;
+}
+.speakers{
+    height: 200px;
+    width: 350px;
+    background-color:#F1F1F1;
+    border-radius: 5px;
+}
+.speakers #i2{
+    position:relative;
+    bottom: 50px;
+    left: 90px;
+    margin-bottom: 10px;
+}
+.data{
+    text-align: center;
+    position: relative;
+    bottom: 55px;
+}
+.data h2{
+    letter-spacing: 3px;
+    margin-bottom: 15px;
+}
+.data p{
+    color: gray;
+}
+
+.earphones{
+    height: 200px;
+    width: 350px;
+    background-color:#F1F1F1;
+    border-radius: 5px;
+}
+.earphones #i3{
+    position:relative ;
+    bottom: 50px;
+    left: 85px;
+}
+
+.best{
+    display: flex;
+    margin: 170px 150px;
+}
+.gear{
+    padding: 150px 0px;
+    padding-right: 200px;
+}
+.gear h1{
+    font-size: 38px;
+}
+.gear span{
+    color: #D87D4A;
+}
+.gear p{
+    color: #979797;
+    margin-top: 30px;
+    line-height: 20px;
+}
+.gearimage img{
+    border-radius: 5px;
+}
+
+.footer{
+    margin-top: 150px;
+    height: 40vh;
+    background-color: black;
+}
+.footbar{
+    display:flex;
+}
+.footlogo{
+    margin:0px 130px ;
+    padding-top: 50px;
+}
+.footnav ul{
+    margin: 50px 0px;
+    margin-left: 400px;
+}
+.footnav ul li{
+    display: inline;
+    color: white;
+    margin: 0px 30px;
+}
+.last{
+    display: flex;
+}
+.body{
+    color: #979797;
+    width: 550px;
+    margin:0px 130px ;
+}
+.body p{
+    line-height: 20px;
+    font-size: 15px;
+}
+.body h4{
+    margin-top: 30px;
+    letter-spacing: 4px;
+    font-size: 15px;
+}
+.icons{
+    width: 150px;
+    margin-top: 60px;
+    margin-left: 350px;
+}
+.icons img{
+    margin: 0px 10px;
+}
